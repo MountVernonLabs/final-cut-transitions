@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ozxmlscene>
+<ozml version="5.7">
+
+<displayversion>5.2.2</displayversion>
+
+<factory id="1" uuid="044beba5ad3211d7ac9b000393833f6a">
+	<description>Style</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="2" uuid="0a5c0b1d4acd11d8b650000a95a6b5a8">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="3" uuid="0e8d443513b611d89395000a95af9f7e">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="4" uuid="10405f52139811d8b4db000a95af9f7e">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="5" uuid="1595b452229211d78c7f00039389b702">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="6" uuid="1c5986a34e9646e08fa8e92b03ba1aaf">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="7" uuid="27f3ee8b229211d7925a00039389b702">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="8" uuid="46c844a813d311d8a438000a95af9f7e">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="9" uuid="558f10b4a1c011d7998900039389b702">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="10" uuid="65cb4dc9d4504fa281921f5f751fba06">
+	<description>Widget</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="11" uuid="66fc0d6af6a911d6a7a7000393670732">
+	<description>Image</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="12" uuid="69f1e0a52e7911d8b19a000a95b0025a">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="13" uuid="7644521e2e7911d891a6000a95b0025a">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="14" uuid="7d468273c013498e9806a0d7bc32fddf">
+	<description>Project</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="15" uuid="878a64bd193011d8bac3000a95af9f7e">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="16" uuid="a1a40f72a21111d7a40e00039366fb58">
+	<description>Fade In/Fade Out</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="17" uuid="aee0a63927494ed19a9667c9f83badfd">
+	<description>Material</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="18" uuid="babfc7777f4711d7aaa7000393833f6a">
+	<description>Text</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="19" uuid="fca4a88380df4dab943a0962bdb1ae75">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+<factory id="20" uuid="fdc1944b229111d7b1c300039389b702">
+	<description>Channel</description>
+	<manufacturer>Apple</manufacturer>
+	<version>1</version>
+</factory>
+
+
+<build></build>
+
+<description></description>
+
+<canvas>
+	<layout>1</layout>
+	<activeView>0</activeView>
+</canvas>
+
+<viewer subview="0">
+	<resolutionMode>0</resolutionMode>
+	<dynamicResolution>1</dynamicResolution>
+	<viewmode>0</viewmode>
+	<overlayOptions>125708</overlayOptions>
+	<oscOptions>30</oscOptions>
+	<compensateAspectRatio>1</compensateAspectRatio>
+	<renderFields>0</renderFields>
+	<showMotionBlur>0</showMotionBlur>
+	<showFrameBlending>1</showFrameBlending>
+	<showLighting>1</showLighting>
+	<showShadows>1</showShadows>
+	<showReflection>1</showReflection>
+	<showDepthOfField>0</showDepthOfField>
+	<renderFullView>0</renderFullView>
+	<renderQuality>2</renderQuality>
+	<textRenderQuality>2</textRenderQuality>
+	<showHighQualityResampling>0</showHighQualityResampling>
+	<showShapeAntialiasing>1</showShapeAntialiasing>
+	<show3DIntersectionAntialiasing>0</show3DIntersectionAntialiasing>
+	<cameraType>0</cameraType>
+	<cameraName>Active Camera</cameraName>
+	<panZoom camera="0" zoom="0.66666666666666663" panX="156.85927327473954" panY="17.126444498697879" mode="1" centered="0"/>
+</viewer>
+
+<projectPanel>
+	<layersPreviewColumn>1</layersPreviewColumn>
+	<layersOpacityColumn>0</layersOpacityColumn>
+	<layersBlendColumn>0</layersBlendColumn>
+	<displayMasks>1</displayMasks>
+	<displayBehaviors>1</displayBehaviors>
+	<displayEffects>1</displayEffects>
+	<layersVerticalZoom>1.8116636847106504</layersVerticalZoom>
+	<mediaPreviewColumn>1</mediaPreviewColumn>
+	<mediaTypeColumn>1</mediaTypeColumn>
+	<mediaDurationColumn>1</mediaDurationColumn>
+	<mediaInUseColumn>1</mediaInUseColumn>
+	<mediaFrameSizeColumn>1</mediaFrameSizeColumn>
+	<mediaCompressorColumn>1</mediaCompressorColumn>
+	<mediaDepthColumn>1</mediaDepthColumn>
+	<mediaFrameRateColumn>1</mediaFrameRateColumn>
+	<mediaDataRateColumn>1</mediaDataRateColumn>
+	<mediaAudioRateColumn>1</mediaAudioRateColumn>
+	<mediaAudioFormatColumn>1</mediaAudioFormatColumn>
+	<mediaFileSizeColumn>1</mediaFileSizeColumn>
+	<mediaFileCreatedColumn>1</mediaFileCreatedColumn>
+	<mediaDileModifiedColumn>1</mediaDileModifiedColumn>
+	<mediaVerticalZoom>1.7999999523162842</mediaVerticalZoom>
+</projectPanel>
+
+<timeline>
+	<displayVideo>1</displayVideo>
+	<displayAudio>0</displayAudio>
+	<displayKeyframes>0</displayKeyframes>
+	<displayMasks>1</displayMasks>
+	<displayBehaviors>1</displayBehaviors>
+	<displayEffects>1</displayEffects>
+	<videoVerticalZoom>1.6111111111111112</videoVerticalZoom>
+	<audioVerticalZoom>1.5555555820465088</audioVerticalZoom>
+	<displayRange in="-43043 521000 3 0" out="1607606 521000 3 0"/>
+</timeline>
+
+<curveeditor>
+	<autozoom>0</autozoom>
+	<snapping>0</snapping>
+	<displayAudioWaveform>0</displayAudioWaveform>
+	<lockKeyframesInTime>0</lockKeyframesInTime>
+	<displayRange in="-43043 521000 3 0" out="1607606 521000 3 0"/>
+	<currentviewvolume originx="-0.082616122840690975" originy="-62.5" width="3.1682322456813821" height="125"/>
+	<snapshotChannels>0</snapshotChannels>
+</curveeditor>
+
+<inspector>
+	<collapseState id="./1/100" state="1"/>
+	<collapseState id="./1/200" state="1"/>
+	<collapseState id="./1/324" state="0"/>
+</inspector>
+
+<scene>
+	<sceneSettings>
+		<width>1920</width>
+		<height>1080</height>
+		<duration>180</duration>
+		<shouldOverrideFCDuration>0</shouldOverrideFCDuration>
+		<frameRate>60</frameRate>
+		<NTSC>1</NTSC>
+		<channels>4</channels>
+		<pixelAspectRatio>1</pixelAspectRatio>
+		<backgroundColor red="0" green="0" blue="0" alpha="1"/>
+		<audioChannels>2</audioChannels>
+		<audioBitsPerSample>32</audioBitsPerSample>
+		<fieldRenderingMode>0</fieldRenderingMode>
+		<motionBlurSamples>8</motionBlurSamples>
+		<motionBlurDuration>1</motionBlurDuration>
+		<startTimecode>0</startTimecode>
+		<presetPath>/Applications/Motion.app/Contents/Resources/English.lproj/Presets/Project/Broadcast HD 720.preset</presetPath>
+		<backgroundMode>0</backgroundMode>
+		<reflectionRecursionLimit>2</reflectionRecursionLimit>
+		<glyphOSCMode>0</glyphOSCMode>
+		<animateFlag>0</animateFlag>
+		<parameterColorSpaceID>3</parameterColorSpaceID>
+		<savePreviewMovie>0</savePreviewMovie>
+	</sceneSettings>
+	<publishSettings>
+		<version>2</version>
+	</publishSettings>
+	<currentFrame>240240 120000 1 0</currentFrame>
+	<timeRange offset="0 1 1 0" duration="360360 120000 1 0"/>
+	<playRange offset="60060 120000 1 0" duration="300300 120000 1 0"/>
+	<flags>9</flags>
+	<audioTracks>0</audioTracks>
+	<timemarkerset>
+		<timemarker>
+			<inpoint>60060 120000 1 0</inpoint>
+			<color>1</color>
+			<type>3</type>
+		</timemarker>
+		<timemarker>
+			<inpoint>240240 120000 1 0</inpoint>
+			<color>1</color>
+			<type>5</type>
+		</timemarker>
+	</timemarkerset>
+	<guideset>
+		<guide>
+			<location>-855.75</location>
+			<vertical>1</vertical>
+		</guide>
+		<guide>
+			<location>-799.2714844</location>
+			<vertical>1</vertical>
+		</guide>
+		<guide>
+			<location>-769.5351562</location>
+			<vertical>1</vertical>
+		</guide>
+		<guide>
+			<location>-467.484375</location>
+			<vertical>0</vertical>
+		</guide>
+		<guide>
+			<location>-431.3847656</location>
+			<vertical>0</vertical>
+		</guide>
+	</guideset>
+	<curvesets selected="1"/>
+	<scenenode name="Project" id="10000" factoryID="14" version="5">
+		<scenenode name="Widget" id="10002" factoryID="10" version="5">
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="-2002 120000 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>16</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704"/>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Options" id="103" flags="8589938688"/>
+				<parameter name="Hidden" id="102" flags="8589934608" default="0" value="1"/>
+				<parameter name="Snapshots" id="101" flags="8589938706"/>
+				<parameter name="Widget" id="100" flags="8589934608" default="1.7777777777777777" value="1.7777777777777777"/>
+			</parameter>
+		</scenenode>
+		<flags>0</flags>
+		<timing in="0 1 1 0" out="-2002 120000 1 0" offset="0 1 1 0"/>
+		<foldFlags>0</foldFlags>
+		<baseFlags>16</baseFlags>
+		<parameter name="Properties" id="1" flags="8589938704"/>
+		<parameter name="Object" id="2" flags="8589938704"/>
+	</scenenode>
+	<layer name="Group 2" id="10003">
+		<group name="Group" id="14690">
+			<scenenode name="MV-logo_moti" id="14357" factoryID="11" version="5">
+				<validTracks>1</validTracks>
+				<aspectRatio>1</aspectRatio>
+				<flags>0</flags>
+				<timing in="0 120000 1 0" out="358358 120000 1 0" offset="0 1 1 0"/>
+				<foldFlags>16384</foldFlags>
+				<baseFlags>524304</baseFlags>
+				<parameter name="Properties" id="1" flags="8589938704">
+					<parameter name="Transform" id="100" flags="8589938704">
+						<parameter name="Position" id="101" flags="8589938704">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="8606711824" default="0" value="-534.88281249957527"/>
+							<parameter name="Y" id="2" flags="8606711824" default="0" value="36.138676166559094"/>
+						</parameter>
+					</parameter>
+					<parameter name="Lighting" id="230" flags="8589938706">
+						<foldFlags>15</foldFlags>
+					</parameter>
+					<parameter name="Shadows" id="234" flags="8589938706">
+						<foldFlags>15</foldFlags>
+					</parameter>
+					<parameter name="Reflection" id="223" flags="8589971474">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+					<parameter name="Media" id="324" flags="8589938704">
+						<foldFlags>4</foldFlags>
+						<parameter name="Source Media" id="300" flags="81621221392" default="14355" value="14355"/>
+						<parameter name="Source Media" id="325" flags="8590000146">
+							<referencedObjectID></referencedObjectID>
+						</parameter>
+					</parameter>
+					<parameter name="Page Number" id="301" flags="8589934610" default="1" value="1"/>
+					<parameter name="Retime Value" id="304" flags="8590066066" default="1" value="1"/>
+					<parameter name="Retime Value Cache" id="319" flags="8590065810" default="1" value="1"/>
+				</parameter>
+				<parameter name="Object" id="2" flags="8589938704">
+					<parameter name="Width" id="313" flags="8589934610" default="1" value="38"/>
+					<parameter name="Height" id="314" flags="8589934610" default="1" value="36"/>
+				</parameter>
+			</scenenode>
+			<scenenode name="First line title" id="10566" factoryID="18" version="5">
+				<paragraphMarginsCached cached="1" left="0" right="1024" top="100" bottom="0"/>
+				<scrollMarginsCached cached="0"/>
+				<crawlMarginsCached cached="0"/>
+				<host hostID="0"/>
+				<textPathModified textPathModifiedVal="0"/>
+				<paragraphStyle id="10567"/>
+				<paragraphStyle id="10568"/>
+				<style name="Style" id="10571" factoryID="1">
+					<font type="0">MercurySSm-Medium</font>
+					<copyFlags>15</copyFlags>
+					<previewWidth>0</previewWidth>
+					<previewHeight>0</previewHeight>
+					<presetName>Normal</presetName>
+					<timing in="0 120000 1 0" out="358358 120000 1 0" offset="0 1 1 0"/>
+					<baseFlags>8657043504</baseFlags>
+					<foldFlags>786432</foldFlags>
+					<parameter name="Font" id="83" flags="12884906000">
+						<font>MercurySSm-Medium</font>
+						<defaultFont>Helvetica</defaultFont>
+					</parameter>
+					<parameter name="Size" id="3" flags="8606711824" default="48" value="24"/>
+					<parameter name="All Caps" id="12" flags="8606711824" default="0" value="1"/>
+					<parameter name="All Caps Size" id="13" flags="8606711824" default="0.80000000000000004" value="1"/>
+					<parameter name="Face" id="14" flags="8589938704">
+						<foldFlags>131072</foldFlags>
+						<parameter name="Texture" id="18" flags="77313609744">
+							<parameter name="Image" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="Wrap Mode" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="Source Media" id="85" flags="8606777362">
+							<referencedObjectID></referencedObjectID>
+						</parameter>
+					</parameter>
+					<parameter name="Drop Shadow" id="21" flags="8589971472">
+						<foldFlags>131072</foldFlags>
+						<parameter name="Texture" id="25" flags="77313609744">
+							<parameter name="Image" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="Wrap Mode" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="Source Media" id="88" flags="8606777362">
+							<referencedObjectID></referencedObjectID>
+						</parameter>
+					</parameter>
+					<parameter name="Outline" id="30" flags="8589971472">
+						<foldFlags>131072</foldFlags>
+						<parameter name="Texture" id="34" flags="77313609744">
+							<parameter name="Image" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="Wrap Mode" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="Source Media" id="86" flags="8606777362">
+							<referencedObjectID></referencedObjectID>
+						</parameter>
+					</parameter>
+					<parameter name="Glow" id="38" flags="8589973520">
+						<foldFlags>131072</foldFlags>
+						<parameter name="Texture" id="42" flags="77313609744">
+							<parameter name="Image" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="Wrap Mode" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="Source Media" id="87" flags="8606777362">
+							<referencedObjectID></referencedObjectID>
+						</parameter>
+					</parameter>
+					<parameter name="3D Text" id="89" flags="8589971472">
+						<foldFlags>131072</foldFlags>
+						<parameter name="Lighting" id="527" flags="8594133008">
+							<foldFlags>8388608</foldFlags>
+							<parameter name="Environment" id="512" flags="12884906000">
+								<foldFlags>131076</foldFlags>
+							</parameter>
+						</parameter>
+					</parameter>
+				</style>
+				<styleRun style="10571" offset="0" length="23"/>
+				<aspectRatio>1</aspectRatio>
+				<flags>0</flags>
+				<timing in="0 120000 1 0" out="358358 120000 1 0" offset="0 1 1 0"/>
+				<foldFlags>0</foldFlags>
+				<baseFlags>34078736</baseFlags>
+				<parameter name="Properties" id="1" flags="8589938704">
+					<parameter name="Transform" id="100" flags="8589938704">
+						<parameter name="Position" id="101" flags="8589938704">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="8606711824" default="0" value="41.882812499575323"/>
+							<parameter name="Y" id="2" flags="8606711824" default="0" value="-28.499999999851809"/>
+						</parameter>
+						<parameter name="Anchor Point" id="107" flags="8589938704">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="8606711824" default="0" value="512"/>
+							<parameter name="Y" id="2" flags="8606711824" default="0" value="50"/>
+						</parameter>
+					</parameter>
+					<parameter name="Lighting" id="230" flags="8589938706">
+						<foldFlags>15</foldFlags>
+					</parameter>
+					<parameter name="Shadows" id="234" flags="8589938706">
+						<foldFlags>15</foldFlags>
+					</parameter>
+					<parameter name="Reflection" id="223" flags="8589971474">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+					<parameter name="Drop Shadow" id="208" flags="8589971474">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+					<parameter name="Four Corner" id="207" flags="8589971458">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+					<parameter name="Crop" id="216" flags="8589971474">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+				</parameter>
+				<parameter name="Object" id="2" flags="8589938704">
+					<parameter name="Text" id="369" flags="8606777344">
+						<text>Firstname Longlastname
+</text>
+					</parameter>
+					<parameter name="Render Text" id="360" flags="8590000146" default="0" value="0"/>
+					<parameter name="Face Camera" id="352" flags="8589934610" default="0" value="0"/>
+					<parameter name="Layout Method" id="314" flags="8606777360" default="0" value="1"/>
+					<parameter name="Right Margin" id="324" flags="8606711824" default="0" value="1024"/>
+					<parameter name="Top Margin" id="325" flags="8606711824" default="0" value="100"/>
+					<parameter name="Path Options" id="329" flags="8589971472">
+						<parameter name="Shape Source" id="339" flags="77330448400" default="0" value="0"/>
+						<parameter name="Align to Path" id="333" flags="8589934610" default="1" value="1"/>
+					</parameter>
+					<parameter name="Crop At Margins" id="372" flags="8606744592" default="0" value="0"/>
+					<parameter name="Basic" id="2000" flags="12884938770" factoryID="0">
+						<parameter name="Substance" id="1998666394" flags="12884906002" factoryID="0">
+							<parameter name="Color" id="1" flags="4295004162">
+								<foldFlags>15</foldFlags>
+							</parameter>
+							<parameter name="Opacity" id="2" flags="4295000066" default="1" value="1"/>
+						</parameter>
+					</parameter>
+				</parameter>
+			</scenenode>
+			<scenenode name="Name" id="10009" factoryID="18" version="5">
+				<paragraphMarginsCached cached="1" left="0" right="1024" top="100" bottom="0"/>
+				<scrollMarginsCached cached="0"/>
+				<crawlMarginsCached cached="0"/>
+				<host hostID="0"/>
+				<textPathModified textPathModifiedVal="0"/>
+				<paragraphStyle id="10409"/>
+				<paragraphStyle id="10038"/>
+				<style name="Style" id="10040" factoryID="1">
+					<font type="0">GothamSSm-Book</font>
+					<copyFlags>15</copyFlags>
+					<previewWidth>0</previewWidth>
+					<previewHeight>0</previewHeight>
+					<presetName>Normal</presetName>
+					<timing in="0 120000 1 0" out="358358 120000 1 0" offset="0 1 1 0"/>
+					<baseFlags>8657043504</baseFlags>
+					<foldFlags>786432</foldFlags>
+					<parameter name="Font" id="83" flags="12884906000">
+						<font>GothamSSm-Book</font>
+						<defaultFont>Helvetica</defaultFont>
+					</parameter>
+					<parameter name="Size" id="3" flags="8606711824" default="48" value="46"/>
+					<parameter name="All Caps" id="12" flags="8606711824" default="0" value="1"/>
+					<parameter name="All Caps Size" id="13" flags="8606711824" default="0.80000000000000004" value="1"/>
+					<parameter name="Face" id="14" flags="8589938704">
+						<foldFlags>131072</foldFlags>
+						<parameter name="Texture" id="18" flags="77313609744">
+							<parameter name="Image" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="Wrap Mode" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="Source Media" id="85" flags="8606777362">
+							<referencedObjectID></referencedObjectID>
+						</parameter>
+					</parameter>
+					<parameter name="Drop Shadow" id="21" flags="8589971472">
+						<foldFlags>131072</foldFlags>
+						<parameter name="Texture" id="25" flags="77313609744">
+							<parameter name="Image" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="Wrap Mode" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="Source Media" id="88" flags="8606777362">
+							<referencedObjectID></referencedObjectID>
+						</parameter>
+					</parameter>
+					<parameter name="Outline" id="30" flags="8589971472">
+						<foldFlags>131072</foldFlags>
+						<parameter name="Texture" id="34" flags="77313609744">
+							<parameter name="Image" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="Wrap Mode" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="Source Media" id="86" flags="8606777362">
+							<referencedObjectID></referencedObjectID>
+						</parameter>
+					</parameter>
+					<parameter name="Glow" id="38" flags="8589973520">
+						<foldFlags>131072</foldFlags>
+						<parameter name="Texture" id="42" flags="77313609744">
+							<parameter name="Image" id="1" flags="77326254096" default="0" value="0"/>
+							<parameter name="Wrap Mode" id="5" flags="8606777360" default="0" value="1"/>
+						</parameter>
+						<parameter name="Source Media" id="87" flags="8606777362">
+							<referencedObjectID></referencedObjectID>
+						</parameter>
+					</parameter>
+					<parameter name="3D Text" id="89" flags="8589971472">
+						<foldFlags>131072</foldFlags>
+						<parameter name="Lighting" id="527" flags="8594133008">
+							<foldFlags>8388608</foldFlags>
+							<parameter name="Environment" id="512" flags="12884906000">
+								<foldFlags>131076</foldFlags>
+							</parameter>
+						</parameter>
+					</parameter>
+				</style>
+				<styleRun style="10040" offset="0" length="23"/>
+				<aspectRatio>1</aspectRatio>
+				<flags>0</flags>
+				<timing in="0 120000 1 0" out="358358 120000 1 0" offset="0 1 1 0"/>
+				<foldFlags>0</foldFlags>
+				<baseFlags>34078736</baseFlags>
+				<parameter name="Properties" id="1" flags="8589938704">
+					<parameter name="Transform" id="100" flags="8589938704">
+						<parameter name="Position" id="101" flags="8589938704">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="8606711824" default="0" value="38.88281249966451"/>
+							<parameter name="Y" id="2" flags="8606711824">
+								<curve type="1" default="0" value="29.931349414628858">
+									<numberOfKeypoints>1</numberOfKeypoints>
+									<keypoint flags="32">
+										<time>-86086 120000 1 0</time>
+										<value>28.499999999851809</value>
+										<outputTangentTime>0.34478888884439951</outputTangentTime>
+										<outputTangentValue>0</outputTangentValue>
+									</keypoint>
+								</curve>
+							</parameter>
+						</parameter>
+						<parameter name="Anchor Point" id="107" flags="8589938704">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="8606711824" default="0" value="512"/>
+							<parameter name="Y" id="2" flags="8606711824" default="0" value="50"/>
+						</parameter>
+					</parameter>
+					<parameter name="Lighting" id="230" flags="8589938706">
+						<foldFlags>15</foldFlags>
+					</parameter>
+					<parameter name="Shadows" id="234" flags="8589938706">
+						<foldFlags>15</foldFlags>
+					</parameter>
+					<parameter name="Reflection" id="223" flags="8589971474">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+					<parameter name="Drop Shadow" id="208" flags="8589971474">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+					<parameter name="Four Corner" id="207" flags="8589971458">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+					<parameter name="Crop" id="216" flags="8589971474">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+				</parameter>
+				<parameter name="Object" id="2" flags="8589938704">
+					<parameter name="Text" id="369" flags="8606777344">
+						<text>Firstname Longlastname
+</text>
+					</parameter>
+					<parameter name="Render Text" id="360" flags="8590000146" default="0" value="0"/>
+					<parameter name="Face Camera" id="352" flags="8589934610" default="0" value="0"/>
+					<parameter name="Layout Method" id="314" flags="8606777360" default="0" value="1"/>
+					<parameter name="Right Margin" id="324" flags="8606711824" default="0" value="1024"/>
+					<parameter name="Top Margin" id="325" flags="8606711824" default="0" value="100"/>
+					<parameter name="Path Options" id="329" flags="8589971472">
+						<parameter name="Shape Source" id="339" flags="77330448400" default="0" value="0"/>
+						<parameter name="Align to Path" id="333" flags="8589934610" default="1" value="1"/>
+					</parameter>
+					<parameter name="Crop At Margins" id="372" flags="8606744592" default="0" value="0"/>
+					<parameter name="Basic" id="2000" flags="12884938770" factoryID="0">
+						<parameter name="Substance" id="1998666404" flags="12884906002" factoryID="0">
+							<parameter name="Color" id="1" flags="4295004162">
+								<foldFlags>15</foldFlags>
+							</parameter>
+							<parameter name="Opacity" id="2" flags="4295000066" default="1" value="1"/>
+						</parameter>
+					</parameter>
+				</parameter>
+			</scenenode>
+			<scenenode name="MV-bar-2_moti" id="14365" factoryID="11" version="5">
+				<validTracks>1</validTracks>
+				<aspectRatio>1</aspectRatio>
+				<flags>0</flags>
+				<timing in="0 120000 1 0" out="358358 120000 1 0" offset="0 120000 1 0"/>
+				<foldFlags>16384</foldFlags>
+				<baseFlags>524304</baseFlags>
+				<parameter name="Properties" id="1" flags="8589938704">
+					<parameter name="Transform" id="100" flags="8589938704">
+						<parameter name="Position" id="101" flags="8589938704">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="8606711824" default="0" value="-492.07617187461057"/>
+							<parameter name="Y" id="2" flags="8606711824" default="0" value="33.000004291542439"/>
+						</parameter>
+						<parameter name="Anchor Point" id="107" flags="8589938704">
+							<foldFlags>15</foldFlags>
+							<parameter name="X" id="1" flags="12901679120" default="0.5" value="0.5"/>
+							<parameter name="Y" id="2" flags="12901679120" default="0.5" value="0.5"/>
+						</parameter>
+					</parameter>
+					<parameter name="Lighting" id="230" flags="8589938706">
+						<foldFlags>15</foldFlags>
+					</parameter>
+					<parameter name="Shadows" id="234" flags="8589938706">
+						<foldFlags>15</foldFlags>
+					</parameter>
+					<parameter name="Reflection" id="223" flags="8589971474">
+						<foldFlags>131087</foldFlags>
+					</parameter>
+					<parameter name="Media" id="324" flags="8589938704">
+						<foldFlags>4</foldFlags>
+						<parameter name="Source Media" id="300" flags="81621221392" default="14363" value="14363"/>
+						<parameter name="Source Media" id="325" flags="8590000146">
+							<referencedObjectID></referencedObjectID>
+						</parameter>
+					</parameter>
+					<parameter name="Page Number" id="301" flags="8589934610" default="1" value="1"/>
+					<parameter name="Retime Value" id="304" flags="8590066066" default="1" value="1"/>
+					<parameter name="Retime Value Cache" id="319" flags="8590065810" default="1" value="1"/>
+				</parameter>
+				<parameter name="Object" id="2" flags="8589938704">
+					<parameter name="Width" id="313" flags="8589934610" default="1" value="7"/>
+					<parameter name="Height" id="314" flags="8589934610" default="1" value="69"/>
+				</parameter>
+			</scenenode>
+			<aspectRatio>1</aspectRatio>
+			<flags>0</flags>
+			<timing in="0 120000 1 0" out="358358 120000 1 0" offset="0 1 1 0"/>
+			<foldFlags>1</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704">
+				<parameter name="Transform" id="100" flags="8589938704">
+					<parameter name="Position" id="101" flags="8589938704">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="8606711824">
+							<curve type="1" default="0" value="-568.72723388671193">
+								<numberOfKeypoints>3</numberOfKeypoints>
+								<keypoint flags="32">
+									<time>-86086 120000 1 0</time>
+									<value>-568.72723388671193</value>
+									<outputTangentTime>0.23912777777777777</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint flags="32">
+									<time>0 120000 1 0</time>
+									<value>-1233.73</value>
+									<inputTangentTime>-0.23912777777777777</inputTangentTime>
+									<inputTangentValue>0</inputTangentValue>
+									<outputTangentTime>0.16683333319748497</outputTangentTime>
+									<outputTangentValue>0</outputTangentValue>
+								</keypoint>
+								<keypoint flags="32">
+									<time>60060 120000 1 0</time>
+									<value>-296.49580969220398</value>
+									<inputTangentTime>-0.16683333333333336</inputTangentTime>
+									<inputTangentValue>0</inputTangentValue>
+									<outputTangentTime>0.11122222222222222</outputTangentTime>
+									<outputTangentValue>-0</outputTangentValue>
+								</keypoint>
+							</curve>
+						</parameter>
+						<parameter name="Y" id="2" flags="8606711824" default="0" value="-464.33789491643148"/>
+					</parameter>
+				</parameter>
+				<parameter name="Blending" id="200" flags="8589938704">
+					<parameter name="Opacity" id="202" flags="8606713872" default="1" value="1"/>
+				</parameter>
+				<parameter name="Lighting" id="230" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Shadows" id="234" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Reflection" id="223" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+			</parameter>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Fixed Width" id="302" flags="12901679124" default="1920" value="1920"/>
+				<parameter name="Fixed Height" id="303" flags="12901679124" default="1080" value="1080"/>
+				<parameter name="Flatten" id="311" flags="8589934610" default="0" value="0"/>
+				<parameter name="Layer Order" id="305" flags="8589934610" default="0" value="0"/>
+				<parameter name="Aperture Width" id="312" flags="12884901906" default="1920" value="1920"/>
+				<parameter name="Aperture Height" id="313" flags="12884901906" default="1080" value="1080"/>
+			</parameter>
+			<behavior name="Fade In/Fade Out" id="1998662466" factoryID="16">
+				<timing in="0 120000 1 0" out="358358 120000 1 0" offset="0 1 1 0"/>
+				<baseFlags>8589934608</baseFlags>
+				<parameter name="Fade In Time" id="200" flags="8606711825" default="20" value="30"/>
+				<parameter name="Fade Out Time" id="201" flags="8606711824" default="20" value="60"/>
+			</behavior>
+		</group>
+		<scenenode name="MV-overlay_moti" id="14376" factoryID="11" version="5">
+			<validTracks>1</validTracks>
+			<aspectRatio>1</aspectRatio>
+			<flags>0</flags>
+			<timing in="0 120000 1 0" out="358358 120000 1 0" offset="0 120000 1 0"/>
+			<foldFlags>16385</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704">
+				<parameter name="Transform" id="100" flags="8589938704">
+					<parameter name="Position" id="101" flags="8589938704">
+						<foldFlags>15</foldFlags>
+						<parameter name="X" id="1" flags="8606711824" default="0" value="-3.6100345068203978"/>
+						<parameter name="Y" id="2" flags="8606711824" default="0" value="-388.50000000002103"/>
+					</parameter>
+				</parameter>
+				<parameter name="Blending" id="200" flags="8589938704">
+					<parameter name="Opacity" id="202" flags="8606711824" default="1" value="1"/>
+				</parameter>
+				<parameter name="Lighting" id="230" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Shadows" id="234" flags="8589938706">
+					<foldFlags>15</foldFlags>
+				</parameter>
+				<parameter name="Reflection" id="223" flags="8589971474">
+					<foldFlags>131087</foldFlags>
+				</parameter>
+				<parameter name="Media" id="324" flags="8589938705">
+					<foldFlags>4</foldFlags>
+					<parameter name="Source Media" id="300" flags="81621221392" default="14375" value="14375"/>
+					<parameter name="Source Media" id="325" flags="8590000146">
+						<referencedObjectID></referencedObjectID>
+					</parameter>
+				</parameter>
+				<parameter name="Page Number" id="301" flags="8589934610" default="1" value="1"/>
+				<parameter name="Retime Value" id="304" flags="8590066066" default="1" value="1"/>
+				<parameter name="Retime Value Cache" id="319" flags="8590065810" default="1" value="1"/>
+			</parameter>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Width" id="313" flags="8589934610" default="1" value="1920"/>
+				<parameter name="Height" id="314" flags="8589934610" default="1" value="306"/>
+			</parameter>
+			<behavior name="Fade In/Fade Out" id="1998662461" factoryID="16">
+				<timing in="0 120000 1 0" out="358358 120000 1 0" offset="0 120000 1 0"/>
+				<baseFlags>8589934608</baseFlags>
+				<parameter name="Fade In Time" id="200" flags="8589934608" default="20" value="30"/>
+				<parameter name="Fade Out Time" id="201" flags="8606711824" default="20" value="60"/>
+			</behavior>
+		</scenenode>
+		<aspectRatio>1</aspectRatio>
+		<flags>0</flags>
+		<timing in="0 120000 1 0" out="358358 120000 1 0" offset="0 1 1 0"/>
+		<foldFlags>0</foldFlags>
+		<baseFlags>524304</baseFlags>
+		<timemarkerset/>
+		<parameter name="Properties" id="1" flags="8589938704">
+			<parameter name="Lighting" id="230" flags="8589938706">
+				<foldFlags>15</foldFlags>
+			</parameter>
+			<parameter name="Shadows" id="234" flags="8589938706">
+				<foldFlags>15</foldFlags>
+			</parameter>
+			<parameter name="Reflection" id="223" flags="8589971474">
+				<foldFlags>131087</foldFlags>
+			</parameter>
+		</parameter>
+		<parameter name="Object" id="2" flags="8589938704">
+			<parameter name="Fixed Width" id="302" flags="12901679124" default="1280" value="1280"/>
+			<parameter name="Fixed Height" id="303" flags="12901679124" default="720" value="720"/>
+			<parameter name="Flatten" id="311" flags="8589934610" default="0" value="0"/>
+			<parameter name="Layer Order" id="305" flags="8589934610" default="0" value="0"/>
+			<parameter name="Aperture Width" id="312" flags="12884901906" default="1280" value="1280"/>
+			<parameter name="Aperture Height" id="313" flags="12884901906" default="720" value="720"/>
+		</parameter>
+	</layer>
+
+	<footage name="Media Layer" id="10006">
+		<clip name="MV-overlay_moti" id="14375">
+			<relativeURL>Media/MV-overlay_moti.png</relativeURL>
+			<pathURL>file:///Users/lcassell/Movies/Motion%20Templates.localized/Titles.localized/Mount%20Vernon%20Branding/Lower%20Thirds%20-%202%20line%20shadow%20(left)/Media/MV-overlay_moti.png</pathURL>
+			<missingWidth>1920</missingWidth>
+			<missingHeight>306</missingHeight>
+			<missingDuration>0.033333333333333333</missingDuration>
+			<creationDuration>1</creationDuration>
+			<mediaID></mediaID>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="0 120000 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704"/>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Alpha Type" id="100" flags="8589938704">
+					<parameter name="Alpha Type" id="101" flags="8590000128" default="0" value="1"/>
+				</parameter>
+				<parameter name="Pixel Aspect Ratio" id="104" flags="12884901888" default="1" value="1"/>
+				<parameter name="Frame Rate" id="107" flags="8589934592" default="0" value="30"/>
+				<parameter name="Fixed Width" id="114" flags="12884901888" default="1920" value="1920"/>
+				<parameter name="Fixed Height" id="115" flags="12884901888" default="306" value="306"/>
+				<parameter name="Use Background Color" id="116" flags="8589934594" default="0" value="0"/>
+				<parameter name="Background Color" id="117" flags="8589971458">
+					<foldFlags>15</foldFlags>
+					<parameter name="Red" id="1" flags="8589967376" default="1" value="1"/>
+					<parameter name="Green" id="2" flags="8589967376" default="1" value="1"/>
+					<parameter name="Blue" id="3" flags="8589967376" default="1" value="1"/>
+				</parameter>
+			</parameter>
+		</clip>
+		<clip name="MV-bar-2_moti" id="14363">
+			<relativeURL>Media/MV-bar-2_moti.png</relativeURL>
+			<pathURL>file:///Users/lcassell/Movies/Motion%20Templates.localized/Titles.localized/Mount%20Vernon%20Branding/Lower%20Thirds%20-%202%20line%20shadow%20(left)/Media/MV-bar-2_moti.png</pathURL>
+			<missingWidth>7</missingWidth>
+			<missingHeight>69</missingHeight>
+			<missingDuration>0.033333333333333333</missingDuration>
+			<creationDuration>1</creationDuration>
+			<mediaID></mediaID>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="0 120000 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704"/>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Pixel Aspect Ratio" id="104" flags="12884901888" default="1" value="1"/>
+				<parameter name="Frame Rate" id="107" flags="8589934592" default="0" value="30"/>
+				<parameter name="Fixed Width" id="114" flags="12884901888" default="7" value="7"/>
+				<parameter name="Fixed Height" id="115" flags="12884901888" default="69" value="69"/>
+				<parameter name="Use Background Color" id="116" flags="8589934594" default="0" value="0"/>
+				<parameter name="Background Color" id="117" flags="8589971458">
+					<foldFlags>15</foldFlags>
+					<parameter name="Red" id="1" flags="8589967376" default="1" value="1"/>
+					<parameter name="Green" id="2" flags="8589967376" default="1" value="1"/>
+					<parameter name="Blue" id="3" flags="8589967376" default="1" value="1"/>
+				</parameter>
+			</parameter>
+		</clip>
+		<clip name="MV-logo_moti" id="14355">
+			<relativeURL>Media/MV-logo_moti.png</relativeURL>
+			<pathURL>file:///Users/lcassell/Movies/Motion%20Templates.localized/Titles.localized/Mount%20Vernon%20Branding/Lower%20Thirds%20-%202%20line%20shadow%20(left)/Media/MV-logo_moti.png</pathURL>
+			<missingWidth>38</missingWidth>
+			<missingHeight>36</missingHeight>
+			<missingDuration>0.033333333333333333</missingDuration>
+			<creationDuration>1</creationDuration>
+			<mediaID></mediaID>
+			<flags>0</flags>
+			<timing in="0 1 1 0" out="0 120000 1 0" offset="0 1 1 0"/>
+			<foldFlags>0</foldFlags>
+			<baseFlags>524304</baseFlags>
+			<parameter name="Properties" id="1" flags="8589938704"/>
+			<parameter name="Object" id="2" flags="8589938704">
+				<parameter name="Alpha Type" id="100" flags="8589938704">
+					<parameter name="Alpha Type" id="101" flags="8590000128" default="0" value="1"/>
+				</parameter>
+				<parameter name="Pixel Aspect Ratio" id="104" flags="12884901888" default="1" value="1"/>
+				<parameter name="Frame Rate" id="107" flags="8589934592" default="0" value="30"/>
+				<parameter name="Fixed Width" id="114" flags="12884901888" default="38" value="38"/>
+				<parameter name="Fixed Height" id="115" flags="12884901888" default="36" value="36"/>
+				<parameter name="Use Background Color" id="116" flags="8589934594" default="0" value="0"/>
+				<parameter name="Background Color" id="117" flags="8589971458">
+					<foldFlags>15</foldFlags>
+					<parameter name="Red" id="1" flags="8589967376" default="1" value="1"/>
+					<parameter name="Green" id="2" flags="8589967376" default="1" value="1"/>
+					<parameter name="Blue" id="3" flags="8589967376" default="1" value="1"/>
+				</parameter>
+			</parameter>
+		</clip>
+		<flags>0</flags>
+		<timing in="0 1 1 0" out="0 120000 1 0" offset="0 1 1 0"/>
+		<foldFlags>0</foldFlags>
+		<baseFlags>524304</baseFlags>
+		<parameter name="Properties" id="1" flags="8589938704"/>
+		<parameter name="Object" id="2" flags="8589938704"/>
+	</footage>
+</scene>
+
+</ozml>
